@@ -1,1 +1,1 @@
-Print whether variable is positive, negative or zero
+Print the last digit of the number stored in the variable
