@@ -1,1 +1,1 @@
-10 x alphabet
+98 Battery st.
