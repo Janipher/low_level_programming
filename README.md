@@ -1,1 +1,1 @@
-I can only go one way. I've not got a reverse gear
+Half the lies they tell about me aren't true
