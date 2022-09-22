@@ -1,1 +1,1 @@
-A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
+strcat
